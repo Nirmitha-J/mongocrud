@@ -4,7 +4,7 @@ const port = 5000;
 const mongodb = require('mongodb')
 const mongoClient = mongodb.MongoClient
 // const dburl = "mongodb://127.0.0.1:27017";
-const dburl = "mongodb+srv://Meiy:meiy@cluster0.idy8j.mongodb.net/testDB?retryWrites=true&w=majority"
+const dburl = "mongodb+srv://nirmitha:nirmitha@test.1yoih.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 
 app.use(express.json())
 
